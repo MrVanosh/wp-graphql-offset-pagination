@@ -3,8 +3,8 @@
  * Plugin Name: WPGraphQL Offset Pagination
  * Plugin URI: https://github.com/valu-digital/wp-graphql-offset-pagination
  * Description: Adds offset pagination to the wp-graphql plugin
- * Author: Esa-Matti Suuronen, Valu Digital Oy
- * Version: 0.2.0
+ * Author: Esa-Matti Suuronen, Valu Digital Oy, Mateusz Iwaniszczuk
+ * Version: 0.2.1
  *
  */
 
