@@ -220,6 +220,16 @@ class Loader
 		    ],
 	    ]);
 
+	    register_graphql_fields('RootQueryToProductConnectionWhereArgs', [
+		    'offsetPagination' => [
+			    'type'        => 'OffsetPagination',
+			    'description' => __(
+			    	'Paginate Comments with offsets',
+				    'wp-graphql-offset-pagination'
+			    ),
+		    ],
+	    ]);
+
         register_graphql_object_type('OffsetPaginationPageInfo', [
             'description' => __(
                 'Get information about the offset pagination state',
